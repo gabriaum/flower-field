@@ -1,0 +1,7 @@
+name: Field
+main: com.gabriaum.field.Field
+version: 1.0.0
+author: gabriaum
+website: https://www.github.com/gabriaum
+commands:
+  pvp:
